@@ -1,5 +1,3 @@
-import time
-import os
 from subfolder import services
 
 
@@ -14,7 +12,7 @@ while True:
     print("\t6. View Members [VIEW_MEMBERS]")
     print("\t7. Search Members [SEARCH_MEMBERS]")
     print("\t8. Delete Members [DELETE_MEMBERS]")
-    print("\t9. Exit [EXIT]")
+    print("\t9. Exit [EXIT]\n")
 
     choice = input("Enter your choice: ")
 
