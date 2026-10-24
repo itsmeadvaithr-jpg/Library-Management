@@ -1,6 +1,6 @@
 import time
 import os
-from my-subfolder import services
+from subfolder import services
 
 
 
